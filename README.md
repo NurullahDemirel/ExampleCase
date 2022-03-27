@@ -4,7 +4,7 @@ dummy data oluşturmak için "php artisan create:dummy-data"komutunu çalıştı
 
 php artisan serve yazıp sayfayı açtığınızda hesaplamaları görecksiniz.
 
-hesaplamaları şu şekilde yapptım:
+hesaplamaları şu şekilde yaptım:
 
 1-minimum 3 tane eleman oluşturdum 
 
